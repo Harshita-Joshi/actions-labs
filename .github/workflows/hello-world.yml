@@ -3,7 +3,7 @@ name: Hello World
 on: push
 
 jobs:
-    hello-job:
+    hello-job-1:
         runs-on: ubuntu-latest
         steps:
         - name: Echo text
